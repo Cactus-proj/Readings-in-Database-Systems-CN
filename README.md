@@ -32,5 +32,4 @@
 
 ## 协议
 
-[CC-BY 4.0](https://github.com/Vonng/ddia/blob/master/LICENSE)
-
+[CC-BY-NC-ND 4.0](https://github.com/Vonng/ddia/blob/master/LICENSE)
